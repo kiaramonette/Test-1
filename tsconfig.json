@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "jsx": "react-jsx",
+    "baseUrl": "./",                   
+    "target": "es6",                               
+    "module": "ESNext",                                                     
+    "strict": true,
+    "moduleResolution": "node",
+    "esModuleInterop": true,      
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "paths": {},             
+  },
+  "exclude":[
+    "./node_modules"
+  ]
+}
